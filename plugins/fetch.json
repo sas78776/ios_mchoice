@@ -1,0 +1,16 @@
+{
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\3131384\\Downloads\\cordova-plugin-whitelist-master"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
