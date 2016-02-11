@@ -32,6 +32,13 @@
     <platform name="wp8">
         <splash src="res/SplashScreen.png" width="768" height="1280" />
     </platform>
+    
+    <platform name="ios">
+            <splash src="res/SplashScreen.png" width="768" height="1280" />
+        </platform>
+    
+    
+    
     <preference name="SplashScreen" value="screen"/>
     <preference name="SplashScreenDelay" value="3000" />
 </widget>
